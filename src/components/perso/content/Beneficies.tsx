@@ -23,26 +23,26 @@ const Beneficies = () => {
             <ul className="list-inside text-xl mt-7">
               <li className="flex">
                 <CheckIcon className="h-7 w-7 min-w-[28px] mr-2 mb-2 text-yellow-500" />
-                <p>Un confort optimum en toutes saisons</p>
+                <p>Un confort optimum en toutes saisons.</p>
               </li>
               <li className="mt-5 flex">
                 <CheckIcon className="h-7 w-7 min-w-[28px] mr-2  mb-2 text-yellow-500" />
-                <p>Importantes économies sur vos factures énergétiques</p>
+                <p>Importantes économies sur vos factures énergétiques.</p>
               </li>
               <li className="mt-5 flex">
                 <CheckIcon className="h-7 w-7 min-w-[28px] mr-2  mb-2 text-yellow-500" />
-                <p>Meilleure classement énergétique sur votre DPE</p>
+                <p>Meilleure classement énergétique sur votre DPE.</p>
               </li>
               <li className="mt-5 flex">
                 <CheckIcon className="h-7 w-7 min-w-[28px] mr-2  mb-2 text-yellow-500" />
-                <p>Valorisation de votre logement</p>
+                <p>Valorisation de votre logement.</p>
               </li>
             </ul>
             <a
               href="#form"
               className="px-3 py-4 bg-yellow-500 rounded-lg text-white mt-7 w-max"
             >
-              Demandez votre estimation
+              En savoir plus
             </a>
           </div>
         </div>
