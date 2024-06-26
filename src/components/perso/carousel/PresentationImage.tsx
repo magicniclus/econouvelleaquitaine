@@ -10,12 +10,10 @@ import { useRef } from "react";
 
 const PresentationImage = () => {
   const images = [
-    "https://via.placeholder.com/500",
-    "https://via.placeholder.com/500",
-    "https://via.placeholder.com/500",
-    "https://via.placeholder.com/500",
-    "https://via.placeholder.com/500",
-    "https://via.placeholder.com/500",
+    "/ite.jpeg",
+    "/isolation.jpeg",
+    "/iti.jpeg",
+    "/isolationcombles.jpg",
   ];
   const plugin = useRef<any>(Autoplay({ delay: 3000 }));
 
