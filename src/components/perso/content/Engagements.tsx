@@ -12,7 +12,7 @@ const incentives = [
       <ChatBubbleLeftEllipsisIcon className="text-slate-700 w-20 h-auto mx-auto" />
     ),
     description:
-      "Nos experts dédiés vous accompagnent de A à Z dans vos travaux",
+      "Nos experts dédiés vous accompagnent de A à Z dans vos travaux.",
   },
   {
     name: "Experts en rénovation",
