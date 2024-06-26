@@ -7,7 +7,7 @@ const page = () => {
       <Header />
       <main className="min-h-screen flex justify-center items-center flex-col bg-slate-50">
         -{" "}
-        <div className="mx-auto max-w-7xl  px-6 lg:px-8 pb-10">
+        <div className="mx-auto max-w-5xl  px-6 lg:px-8 pb-10">
           <h1 className="text-3xl font-bold tracking-tight text-gray-800 sm:text-4xl  mt-16">
             Politique de confidentialité
           </h1>
