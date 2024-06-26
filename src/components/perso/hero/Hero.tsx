@@ -86,28 +86,27 @@ const Hero = () => {
         <div className="flex flex-col justify-center w-full md:w-1/2 pr-4 text-white">
           <h1 className="text-3xl font-bold">
             Jusqu’à <span className="text-yellow-500">75€ d’aides par m2</span>{" "}
-            pour réalisez les travaux d’isolation extérieure de votre maison
+            pour les travaux d&pos;isolation extérieure de votre maison
           </h1>
           <p className="mt-10">
             Isolation des murs extérieurs, combles, rampants, sous-sol.
           </p>
           <p className="font-bold mt-2">
-            Un gain de 30% à 40% sur votre facture de chauffage
+            Réduction de 30% à 40% sur votre facture de chauffage.
           </p>
           <div className="flex items-start mt-7">
             <CheckCircleIcon className="min-w-6 h-6 text-white mt-1 mr-2" />
             <p className="">
-              Isolation faite par des{" "}
-              <span className="font-bold">artisans RGE</span> qui garantissent
-              une parfaite{" "}
-              <span className="font-bold">isolation thermique</span>.
+              Isolation réalisé par des{" "}
+              <span className="font-bold">artisans RGE</span> garantissant une
+              <span className="font-bold">performance thermique optimale</span>.
             </p>
           </div>
           <div className="flex items-start mt-7">
             <CheckCircleIcon className="min-w-6 h-6 text-white mr-2" />
             <p className="">
-              <span className="font-bold">+ de 70000</span> rénovation
-              énergétique réalisées.
+              <span className="font-bold">+ de 70000</span> rénovations
+              énergétiques déjà effectuées.
             </p>
           </div>
           <div className="mt-16 flex flex-col md:flex-row items-start">
