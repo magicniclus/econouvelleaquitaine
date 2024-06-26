@@ -11,7 +11,6 @@ import { StarIcon } from "@heroicons/react/20/solid";
 
 interface AvisItem {
   id: number;
-  date: string;
   avis: string;
   name: string;
   note: number;
@@ -19,60 +18,60 @@ interface AvisItem {
 
 export const avis: AvisItem[] = [
   {
-    id: 0,
-    date: "2024-05-04",
-    avis: "Merci pour votre aide précieuse ! Les étapes étaient bien expliquées et le processus très transparent.",
-    name: "Jean Dupont",
-    note: 5,
-  },
-  {
     id: 1,
-    date: "2024-01-23",
-    avis: "Ravi de la simplicité du service. J'ai pu me concentrer sur mon activité sans me soucier des papiers administratifs.",
-    name: "Jean Dupont",
     note: 5,
+    avis: `
+        J'ai fais appel à Terabois pour isoler ma maison, les travaux ont étés parfaitement réalisés, super bon contact. Je recommande fortement cette entreprise.
+      `,
+    name: "PATRICK MASSE",
   },
   {
     id: 2,
-    date: "2024-04-09",
-    avis: "Excellente plateforme, très intuitive. Le support client a répondu rapidement à mes questions. Hautement recommandé !",
-    name: "Jean Dupont",
     note: 5,
+    avis: `
+        Sérieux, efficacité, suivi… les travaux que j’ai entrepris avec maison Terabois m’ont totalement satisfaits. Les idées et suggestions du maître d’œuvre (en bonus) sont un vrai plus. Mon habitation à rénover, a pris une vraie dimension. Je recommande vraiment.
+      `,
+    name: "Natacha CALESTREME",
   },
   {
     id: 3,
-    date: "2023-11-03",
-    avis: "Je n'aurais jamais pensé que créer une auto-entreprise serait si facile ! Merci à Info Autoentreprise pour leur efficacité.",
-    name: "Jean Dupont",
     note: 5,
+    avis: `
+        J’ai rencontré Mr Castera de chez Terabois, pour conseils. Il a été très professionnel et rassurant, et je lui ai confié la réalisation de mes travaux. Tout a été réalisé en temps et en heure, et respect du devis! Je recommande vivement cette entreprise. À consommer sans modération 😊
+      `,
+    name: "Perus Nathalie",
   },
   {
     id: 4,
-    date: "2024-03-03",
-    avis: "Service impeccable. Les démarches étaient bien moins compliquées que je ne le pensais grâce à Info Autoentreprise.",
-    name: "Jean Dupont",
     note: 5,
+    avis: `
+        
+      `,
+    name: "MAISON ISOLATION",
   },
   {
     id: 5,
-    date: "2023-12-15",
-    avis: "Le site est bien structuré, et j'ai pu créer mon auto-entreprise en quelques clics. Les explications étaient très claires.",
-    name: "Jean Dupont",
-    note: 4,
+    note: 5,
+    avis: `
+        J'ai rencontré Messieurs Castera par le biais de connaissances, ils ont su répondre à mes demandes tout en s'adaptant aux contraintes rencontrées pendant l'avancement des travaux. Je recommande à 100%.
+      `,
+    name: "Camille",
   },
   {
     id: 6,
-    date: "2024-04-07",
-    avis: "Info Autoentreprise est top ! Le site m'a guidé à travers chaque étape. Je suis très satisfait de mon expérience.",
-    name: "Jean Dupont",
-    note: 4,
+    note: 5,
+    avis: `
+        Une équipe sérieuse et efficace, merci maison terabois!
+      `,
+    name: "Alex Lagane",
   },
   {
     id: 7,
-    date: "2023-11-08",
-    avis: "J'ai trouvé la création de mon auto-entreprise incroyablement simple grâce à Info Autoentreprise. Tout était clair et rapide !",
-    name: "Jean Dupont",
     note: 5,
+    avis: `
+        J’ai confié mes travaux d’agrandissement de ma maison, à Terabois. Travail soigné, prix et délais respectés. Le maître d’œuvre est humain et à l’écoute de son client.
+      `,
+    name: "Pascal LAURENT",
   },
   // Autres avis
 ];
