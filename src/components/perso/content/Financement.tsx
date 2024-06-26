@@ -55,24 +55,24 @@ const Financement = () => {
           />
           <div className="flex w-full justify-between items-end">
             <img
-              src="https://via.placeholder.com/500"
+              src="/terabois.jpg"
               className="w-[60%] h-[200px] rounded-lg object-cover"
               alt="Financement"
             />
             <img
-              src="https://via.placeholder.com/500"
+              src="/client.jpg"
               className="w-[30%] h-[150px] rounded-lg object-cover"
               alt="Financement"
             />
           </div>
           <div className="flex w-full justify-between items-end mt-5">
             <img
-              src="https://via.placeholder.com/500"
+              src="/men.jpg"
               className="w-[30%] h-[150px] rounded-lg object-cover"
               alt="Financement"
             />
             <img
-              src="https://via.placeholder.com/500"
+              src="/ecologie.jpg"
               className="w-[60%] h-[200px] rounded-lg object-cover"
               alt="Financement"
             />
