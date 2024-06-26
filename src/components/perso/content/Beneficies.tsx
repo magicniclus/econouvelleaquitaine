@@ -8,7 +8,7 @@ const Beneficies = () => {
         <div className=" flex flex-col md:flex-row justify-between items-center mt-12">
           <div className="w-full md:w-6/12 md:pr-6">
             <img
-              src="https://via.placeholder.com/500"
+              src="/global.jpg"
               className="w-full h-auto max-h-[300px] rounded-lg object-cover"
               alt="Financement"
             />
