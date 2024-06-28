@@ -86,7 +86,7 @@ const Hero = () => {
         <div className="flex flex-col justify-center w-full md:w-1/2 pr-4 text-white">
           <h1 className="text-3xl font-bold">
             Jusqu’à <span className="text-yellow-500">75€ d’aides par m2</span>{" "}
-            pour les travaux d&pos;isolation extérieure de votre maison
+            pour les travaux d&apos;isolation extérieure de votre maison
           </h1>
           <p className="mt-10">
             Isolation des murs extérieurs, combles, rampants, sous-sol.
