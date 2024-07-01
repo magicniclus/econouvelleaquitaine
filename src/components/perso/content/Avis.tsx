@@ -82,7 +82,7 @@ const Avis = () => {
     <section className=" py-24 md:py-16 relative">
       {/* <div className="absolute bottom-0 right-0 h-4 bg-slate-300 w-full" /> */}
       <div className="mx-auto sm:px-6 px-4 flex justify-between flex-col items-center max-w-5xl">
-        <h2 className="text-2xl text-slate-700 font-bold">
+        <h2 className="text-2xl text-slate-700 font-bold text-center">
           Nos cliens nous recommandent
         </h2>
         <p>Nos avis préférés</p>
