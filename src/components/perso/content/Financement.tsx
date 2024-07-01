@@ -4,7 +4,7 @@ const Financement = () => {
     <section className="w-full py-24 md:py-16">
       <div className="max-w-5xl w-full px-4 md:px-6 mx-auto flex flex-col md:flex-row justify-between items-center h-min">
         <div className="w-full md:w-1/2 md:pr-6 flex flex-col justify-between">
-          <h2 className="text-2xl text-slate-700 font-bold">
+          <h2 className="text-2xl text-slate-700 font-bold text-center">
             Obtenez un financement pour vos rénovations à{" "}
             <span className="text-yellow">0% d&apos;intérêt**</span>
           </h2>
