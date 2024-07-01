@@ -14,7 +14,7 @@ const Beneficies = () => {
             />
           </div>
           <div className="w-full md:w-6/12 md:pl-6 flex flex-col justify-between mt-12 md:mt-0">
-            <h2 className="text-2xl text-slate-700 font-bold">
+            <h2 className="text-2xl text-slate-700 font-bold text-center">
               Les bénéfices de la{" "}
               <span className="text-yellow">
                 rénovation énergétique avec ECO-Nouvelle-Aquitaine
